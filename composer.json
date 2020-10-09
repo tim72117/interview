@@ -1,5 +1,5 @@
 {
-    "name": "cere/interview",
+    "name": "tim72117/interview",
     "type": "library",
     "require": {
         "laravel/framework": "4.2.*",
